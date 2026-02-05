@@ -12,4 +12,4 @@ print("The simple interest is: ", simple_interest)
 # 1. Write a python program that is able to calculate the BMI of a person whose weight is 78kgs and height is 1.75 metres. The formula is weight/(height squared)
 #2. Find the area and perimeter of a rectangle of length 48cm and width is 25cm
 
-# Research on python list, typle and dictionary data types
+# Research on python list, tuple and dictionary data types

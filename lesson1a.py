@@ -1,5 +1,5 @@
 # What is a variable: They are labels which act as containers to hold values. n python, a variable is always associated with some values.
-# We use the assignment (=)operatoe to assign values to a variable
+# We use the assignment (=)operator to assign values to a variable
 # Anything that is inside of quotes in python is called a string
 message = "Hello there! Hope everything is fine"
 print(message)
