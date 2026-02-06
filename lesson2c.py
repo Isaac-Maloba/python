@@ -17,10 +17,16 @@ print('=====================')
 player = {
     "Name" : "Lionel Messi",
     "Age" : 40,
-    "Teams" : ["PSG", "Barcelona", "Argentina"]
+    "Teams" : ["PSG", "Barcelona", "Argentina"],
+    "more" : {
+        "children" : 3,
+        "residence" : "US",
+        "phone" : (254788888, 254799999, 25433333)
+    }
 }
 
 print(player)
 print(player["Teams"][1])
 
 # Research on if...else statements in python
+print(player["more"]["phone"][1])
