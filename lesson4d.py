@@ -1,0 +1,32 @@
+# Python while loop.
+#  While loop executes a block of code repeatedly as long as a certain condition is true. The syntax of a while loop in python is as follows:
+"""
+initialization of a variable
+while keyword,
+followed by the condition/statement to be evaluated,
+followed by a full colon(:),
+code to be printed out,
+increment/decrement
+"""
+
+number = 0
+while number < 5:
+    print("Hello Moses", number)
+    number = number + 1
+
+# create a while loop that prints the even numbers from 50 to 70
+
+number = 50
+while number <=70:
+    print(number)
+    number = number + 2
+
+# below is a decreament example that prints multiples of 3 starting from 201 to 150
+number = 201
+while number >= 150:
+    print(number)
+    number = number - 3
+
+# infinite loop example
+
+# research on python functions, both with parameters and without parameters

@@ -1,5 +1,5 @@
 # NHIF monthly contribution program
-salary = int(input("Enter Salary: "))
+salary = int(input("Enter Salary: Ksh "))
 
 if salary > 0 and salary < 5999:
     print("Your monthly contribution is: Ksh 150.00")
