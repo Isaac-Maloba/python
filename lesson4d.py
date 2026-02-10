@@ -14,12 +14,15 @@ while number < 5:
     print("Hello Moses", number)
     number = number + 1
 
+print('============================')
 # create a while loop that prints the even numbers from 50 to 70
 
 number = 50
 while number <=70:
     print(number)
     number = number + 2
+
+print('============================')
 
 # below is a decreament example that prints multiples of 3 starting from 201 to 150
 number = 201
